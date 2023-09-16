@@ -1,0 +1,21 @@
+{
+    "name": "academy01/simple-captcha",
+    "description": "Simple php package to generate and validate captcha.",
+    "type": "package",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Academy01\\SimpleCaptcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhnobakht",
+            "email": "01programmingacademy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
